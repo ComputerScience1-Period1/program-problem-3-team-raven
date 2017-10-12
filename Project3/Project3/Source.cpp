@@ -54,3 +54,19 @@ C = (x - A * 100 - (B * 10));
 	}
 	pause(); // pauses to see the displayed text
 }
+	
+	cout << "Enter a three digit number. \n"; 
+	
+	while(true)
+		
+	ascend/descend/neither
+	
+	cout << "Enter a three digit number. \n";
+
+	cin >> x; 
+	
+	while(x=true)
+		
+		
+		
+	
