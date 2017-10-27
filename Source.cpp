@@ -33,7 +33,6 @@ void pause() {
 
 	cout << '\n';
 }
-
 // MAIN
 void main() {
 	cout << "Enter a three digit number. \n";
